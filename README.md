@@ -118,7 +118,7 @@ some tasks to do.</p>
 <p>The script is based on an idea from <a href="https://github.com/DanMcInerney">Dan McInerney</a>. The parts for the
 jamming and selecting an AP have also been taken from his scripts <a href="https://github.com/DanMcInerney/wifijammer">wifijammer</a> and <a href="https://github.com/DanMcInerney/fakeAP">fakeAP</a>.</p>
 <h2>License</h2>
-<p>Wifiphisher is licensed under the MIT license. See <a href="https://github.com/sophron/wifiphisher/blob/master/LICENSE">LICENSE</a> for more information.</p>
+<p>Wifiphisher is licensed under the MIT license. See <a href="https://github.com/hacker404/WifiPhisher/LICENSE">LICENSE</a> for more information.</p>
 <h2>Project Status</h2>
 <p>Wifiphisher's current version is <strong>1.1</strong>.</p>
 <h2>Other resources</h2>
